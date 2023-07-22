@@ -1,13 +1,12 @@
-- 👋 Hi, I’m @Nguyenduc2k3
-- 👀 I’m interested in ... computer
-- 🌱 I’m currently learning ... coding
-- 💞️ I’m looking to collaborate on ... github
-- 📫 How to reach me ...
+# 🏡 $HOME
 
-<!---
-Nguyenduc2k3/Nguyenduc2k3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Love](https://img.shields.io/badge/BUILT%20WITH-LOVE-orange?style=for-the-badge&labelColor=E36D25)
+![Github](https://img.shields.io/github/stars/Nguyenduc2k3?style=for-the-badge)
+![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
+![Test](https://img.shields.io/badge/coverage-100%25-brightgreen?style=for-the-badge)
+![Quality](https://img.shields.io/badge/code%20quality-A-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-up-brightgreen?style=for-the-badge)
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nguyenduc2k3&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 <p align="center">
