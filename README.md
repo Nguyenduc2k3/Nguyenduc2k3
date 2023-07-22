@@ -9,5 +9,5 @@ Nguyenduc2k3/Nguyenduc2k3 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  <img src="[link_to_your_background_image.jpg](https://th.bing.com/th/id/OIP.uVMemPt-SNEh5DWguq1CQgHaEK?pid=ImgDet&rs=1)https://th.bing.com/th/id/OIP.uVMemPt-SNEh5DWguq1CQgHaEK?pid=ImgDet&rs=1" alt="Background Image" width="100%">
+  <img src="https://i.ytimg.com/vi/asbII7xUB74/maxresdefault.jpg" alt="Background Image" width="100%">
 </p>
